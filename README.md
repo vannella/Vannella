@@ -11,7 +11,7 @@
  
 <div> 
   
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400d3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/giovana_vannela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400d3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.kaggle.com/nandamerces" target="_blank"><img src="https://img.shields.io/badge/Kaggle-461e6b?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
 
