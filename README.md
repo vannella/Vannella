@@ -10,10 +10,12 @@
  	<a href="https://www.kaggle.com/nandamerces" target="_blank"><img src="https://img.shields.io/badge/Kaggle-461e6b?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Figma-4d0491?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+<br>
 
-##
-Interfaces - UX
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=RelatorioShopp2&theme=neon)](https://github.com/GiovanaMerces/RelatorioShopp2)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
+<picture>
+<br><br>
 
