@@ -3,9 +3,12 @@
 ![GiovanaMerces](https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)         
  
 <div> 
-  
-  <a href="https://instagram.com/giovana_vannela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9400d3?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Python-1b004b?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-530088?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-7f00b2?style=for-the-badge&logo=googlecolab&color=7f00b2"/>
+  <img src="https://img.shields.io/badge/replit-3a33ae?style=for-the-badge&logo=replit&logoColor=white"/>
  	<a href="https://www.kaggle.com/nandamerces" target="_blank"><img src="https://img.shields.io/badge/Kaggle-461e6b?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Figma-4d0491?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ##
