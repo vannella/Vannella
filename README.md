@@ -15,3 +15,6 @@
  	<a href="https://www.kaggle.com/nandamerces" target="_blank"><img src="https://img.shields.io/badge/Kaggle-461e6b?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=RelatorioShopp2&theme=midnight-purple&border_color=9400D3)](https://github.com/GiovanaMerces/RelatorioShopp2)
+
+
