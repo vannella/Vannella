@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=false&vCenter=false&repeat=true&random=false&width=435&size=27&lines=✦+Bem-vindo+ao+meu+perfil!;)](https://git.io/typing-svg)<img align="right" alt="cogumelos.gif" src="https://github.com/GiovanaMerces/GiovanaMerces/blob/5359ee2f8ea1e3fef55e1079832f97bb64cb7274/cogumelos.gif" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=true&vCenter=true&repeat=true&random=false&width=435&size=25&lines=✦+Bem-vindo+ao+meu+perfil!+✦;" alt="Typing SVG">
+  </a>
+</p>
+
 
 ![GiovanaMerces](https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)         
  
@@ -18,4 +23,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
 <picture>
 <br><br>
+
 
