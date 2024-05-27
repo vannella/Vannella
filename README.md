@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=false&vCenter=false&repeat=true&random=false&width=435&size=27&lines=Hello%2C+welcome!;my+name+is+Giovana;I+do+Information+Systems;I'm+20+year+old)](https://git.io/typing-svg)<img align="right" alt="cogumelos.gif" src="https://github.com/GiovanaMerces/GiovanaMerces/blob/5359ee2f8ea1e3fef55e1079832f97bb64cb7274/cogumelos.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=false&vCenter=false&repeat=true&random=false&width=435&size=27&lines=✦+Bem-vindo+ao+meu+perfil!;)](https://git.io/typing-svg)<img align="right" alt="cogumelos.gif" src="https://github.com/GiovanaMerces/GiovanaMerces/blob/5359ee2f8ea1e3fef55e1079832f97bb64cb7274/cogumelos.gif" />
 
 ![GiovanaMerces](https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)         
  
