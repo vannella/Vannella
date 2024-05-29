@@ -17,7 +17,6 @@
 </div>
 <br>
 
-![BOSW.gif](https://media1.tenor.com/m/L0wy41Q8n6AAAAAC/animated-lines.gif)![BOSW.gif](https://media1.tenor.com/m/L0wy41Q8n6AAAAAC/animated-lines.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
