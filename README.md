@@ -1,7 +1,10 @@
+<img src="https://media1.tenor.com/m/VTvJU0qL9WMAAAAC/particles3.gif" alt="BOSW.gif" width="498" height="176" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=true&vCenter=true&repeat=true&random=false&width=435&size=25&lines=✦+Bem-vindo+ao+meu+perfil!+✦;" alt="Typing SVG">
-  </a><img align="right" alt="cogumelos.gif" src="https://github.com/GiovanaMerces/GiovanaMerces/blob/5359ee2f8ea1e3fef55e1079832f97bb64cb7274/cogumelos.gif" />
+  </a>
 </p>    
 
 ![GiovanaMerces](https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false)
