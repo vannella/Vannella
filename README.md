@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/VTvJU0qL9WMAAAAC/particles3.gif" alt="BOSW.gif" width="498" height="176" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
+<img src="https://media1.tenor.com/m/VTvJU0qL9WMAAAAC/particles3.gif" alt="BOSW.gif" width="200" height="176" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
 
 
 <p align="center">
