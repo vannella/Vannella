@@ -40,6 +40,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" /><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200">
 </p>
 
+##
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=E786FFFF&center=true&vCenter=true&repeat=false&random=false&width=435&size=18&lines=A+SQL+query+goes+into+a+bar," alt="Typing SVG"/><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=E786FFFF&center=true&vCenter=true&repeat=false&random=false&width=435&size=18&lines=walks+up+to+two+tables+and+asks..." alt="Typing SVG"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=EFFF89FF&center=true&vCenter=true&repeat=false&random=false&width=435&size=18&lines='Can+I+join+you?'" alt="Typing SVG">
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
@@ -47,5 +56,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
 <picture>
 <br><br>
+ 
 
-<br>
