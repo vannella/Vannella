@@ -8,11 +8,10 @@
   </a>
 </p>    
 
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=EBEBEBFF&center=false&vCenter=false&repeat=false&random=false&width=435&size=18&lines=✦+Habilidades" alt="Typing SVG">
   </a>
-
+  
 
 <div> 
   <img src="https://img.shields.io/badge/Python-1b004b?style=for-the-badge&logo=python&logoColor=white"/>
@@ -38,7 +37,7 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" /><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200">
 </p>
 
 
@@ -49,4 +48,4 @@
 <picture>
 <br><br>
 
-
+<br>
