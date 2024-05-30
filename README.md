@@ -50,6 +50,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/PGyUHP0qCsEAAAAi/shark-snigger-laugh-evil-that%27s-embarrassing.gif" alt="flame.gif" width="60" height="60" />
+</p>  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake.svg">
