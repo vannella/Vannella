@@ -1,5 +1,6 @@
-<img src="https://media1.tenor.com/m/VTvJU0qL9WMAAAAC/particles3.gif" alt="BOSW.gif" width="340" height="176" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
-
+<p align="center">
+  <img src="https://media.tenor.com/UO2iB6nZD9MAAAAi/35524757372-flame.gif" alt="flame.gif" width="60" height="60" />
+</p>  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
