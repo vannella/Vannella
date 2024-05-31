@@ -48,9 +48,6 @@
     <a href="https://github.com/GiovanaMerces/RelatorioShopp2">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=RelatorioShopp2&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=00000000">
     </a>
-    <a href="https://github.com/GiovanaMerces/HoPepper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=HotPepper&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=00000000">
-    </a>
 </details>
 
 
