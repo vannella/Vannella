@@ -58,6 +58,7 @@
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=D323FFFF&center=true&vCenter=true&repeat=false&random=false&width=435&size=15&lines=Uma+consulta+SQL+entra+em+uma+barra," alt="Typing SVG"/><br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=D323FFFF&center=true&vCenter=true&repeat=false&random=false&width=435&size=15&lines=caminha+até+duas+tabelas+e+pergunta..." alt="Typing SVG"/><br>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=65C1F7FF&center=true&vCenter=true&repeat=false&random=false&width=435&size=15&lines='Posso+me+juntar+a+vocês?'" alt="Typing SVG"/>
 </p>
 
 <p align="center">
