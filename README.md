@@ -37,22 +37,10 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&hide_border=true&bg_color=00000000" /><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200"
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000" /><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200"
 </p>
 
 ##
-
-<details>
-    <summary><strong>Repositório ➔</strong></summary>
-    <br>
-    <a href="https://github.com/GiovanaMerces/RelatorioShopp2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=RelatorioShopp2&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=00000000">
-      <a href="https://github.com/GiovanaMerces/HotPepper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=HotPepper&&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&bg_color=00000000">
-    </a>
-    </a>
-</details>
-
 
 <p align="center">
 <a href="https://git.io/typing-svg">
