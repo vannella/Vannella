@@ -43,10 +43,10 @@
 ##
 
 <details>
-    <summary><strong>Privados do curso BSI</strong></summary>
+    <summary><strong>🔒 Privados do curso BSI</strong></summary>
     <br>
   
-[RelatorioShopp2-IHM](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
+[IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
 <br>
 [Interface-Fictícia](https://github.com/GiovanaMerces/HotPepper)<br>
 <br>
