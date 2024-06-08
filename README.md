@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/MySQL-530088?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-7f00b2?style=for-the-badge&logo=googlecolab&color=7f00b2"/>
   <img src="https://img.shields.io/badge/replit-3a33ae?style=for-the-badge&logo=replit&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/Kaggle-461e6b?style=for-the-badge&logo=Kaggle&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-4d0491?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
