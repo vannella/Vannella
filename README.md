@@ -1,17 +1,8 @@
-<p align="center">
-  <img src="https://media.tenor.com/UO2iB6nZD9MAAAAi/35524757372-flame.gif" alt="flame.gif" width="60" height="60" />
-</p>  
+<img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=AE4EF7FF&center=true&vCenter=true&repeat=true&random=false&width=435&size=30&lines=Bem-vindo+ao+meu+perfil!;Analisando+alguns+Dados;UX/UI+Designer" alt="Typing SVG">
-  </a>
-</p>    
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=EBEBEBFF&center=false&vCenter=false&repeat=false&random=false&width=435&size=18&lines=✦+Habilidades" alt="Typing SVG">
-  </a>
   
+ <h3>⁕ Habilidades</br>
+<br>
 
 <div> 
   <img src="https://img.shields.io/badge/Python-1b004b?style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,11 +11,11 @@
   <img src="https://img.shields.io/badge/JavaScript-530088?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 </div>
+</h3>
 
 ##
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=938&color=EBEBEBFF&center=false&vCenter=false&repeat=false&random=false&width=435&size=18&lines=✦+Ambientes" alt="Typing SVG">
-  </a>
+ <h3>⁕ Ferramentas</br>
+<br>
   
   <div> 
   <img src="https://img.shields.io/badge/MySQL-530088?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -32,6 +23,7 @@
   <img src="https://img.shields.io/badge/replit-3a33ae?style=for-the-badge&logo=replit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-4d0491?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+</h3>
 
 ##
 
