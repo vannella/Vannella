@@ -28,7 +28,7 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" /><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200">
 </p>
 
 ##
