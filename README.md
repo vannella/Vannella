@@ -28,10 +28,20 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="350" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMerces&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="top-langs">
 </p>
 
+
 ##
+
+<details>
+    <summary><strong>✔ Análises de Dados</strong></summary>
+    <br>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<br>
 
 <details>
     <summary><strong>🔒 Privados do curso BSI</strong></summary>
