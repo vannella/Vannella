@@ -35,10 +35,10 @@
 ##
 
 <details>
-    <summary><strong>✔ Análises de Dados</strong></summary>
+    <summary><strong>✔ Principais Repositórios</strong></summary>
     <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/GiovanaMerces/AnaliseRotatividade)
 </details>
 
 <br>
