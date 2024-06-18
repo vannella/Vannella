@@ -1,7 +1,7 @@
 <img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
   
- <h3>⁕ Habilidades</br><img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/e80170da76107eebb64498ffd4cd7f543afd5225/%F0%9F%8F%AB.gif" align="right" width="350" height="200">
+ <h3>⁕ Habilidades</br>
 <br>
 
 <div> 
@@ -54,6 +54,10 @@
 <br>
 [🔒IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
 </details>
+
+<br>
+
+<img src="https://media.tenor.com/qvwcFWrFFMQAAAAi/grimoire-spellbook.gif" align="right" width="100" height="100"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
