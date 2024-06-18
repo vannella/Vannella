@@ -55,9 +55,6 @@
 [🔒IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
 </details>
 
-<br>
-
-<img src="https://media.tenor.com/qvwcFWrFFMQAAAAi/grimoire-spellbook.gif" align="right" width="100" height="100"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
