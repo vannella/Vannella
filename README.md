@@ -44,7 +44,7 @@
 <br>
 
 <details>
-    <summary><strong>🔒 Privados do curso BSI</strong></summary>
+    <summary><strong>📚 Curso BSI</strong></summary>
     <br>
   
 [IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
