@@ -1,7 +1,7 @@
 <img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
   
- <h3>⁕ Habilidades</br>
+ <h3>⁕ Habilidades</br><img src="https://media1.tenor.com/m/wch_imF_RLUAAAAC/lofi.gif" alt="lofi.gif" align="right" width="400" height="230">
 <br>
 
 <div> 
