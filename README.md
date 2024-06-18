@@ -47,11 +47,11 @@
     <summary><strong>📚 Curso BSI</strong></summary>
     <br>
   
-[ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
+[📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
 <br>
-[Interface-Fictícia](https://github.com/GiovanaMerces/HotPepper)<br>
+[🔒Interface-Fictícia](https://github.com/GiovanaMerces/HotPepper)<br>
 <br>
-[IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
+[🔒IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
 </details>
 
 <picture>
