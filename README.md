@@ -49,6 +49,8 @@
   
 [📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
 <br>
+[📗LeituraArtigo2023](https://github.com/GiovanaMerces/LeituraArtigo2023)<br>
+<br>
 [🔒Interface-Fictícia](https://github.com/GiovanaMerces/HotPepper)<br>
 <br>
 [🔒IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
