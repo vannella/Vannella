@@ -3,7 +3,7 @@
  <h3>⁕ Sobre mim</h3>
 
 <img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</br>
-<img src="https://media.tenor.com/iBb9CXPm3icAAAAi/dice-roll-dice.gif" width="17" height="17"> Interesse por Análise de Dados.</br>
+<img src="https://media.tenor.com/sUiwSBs8S6QAAAAi/dice-game.gif" width="15" height="15"> Interesse por Análise de Dados.</br>
 <img src="https://media.tenor.com/2dN-bcf5bQIAAAAi/purple-heart-pixel-heart.gif" width="15" height="15"> Apaixonada por SQL.</br>
 
 ---
