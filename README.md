@@ -1,5 +1,12 @@
 <img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
+ <h3>⁕ Sobre mim</h3>
+
+<img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</br>
+<img src="https://media.tenor.com/iBb9CXPm3icAAAAi/dice-roll-dice.gif" width="17" height="17"> Interesse por Análise de Dados.</br>
+<img src="https://media.tenor.com/2dN-bcf5bQIAAAAi/purple-heart-pixel-heart.gif" width="15" height="15"> Apaixonada por SQL.</br>
+
+---
   
  <h3>⁕ Habilidades</br>
 <br>
