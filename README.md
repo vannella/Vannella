@@ -41,7 +41,7 @@
 ##
 
 <details>
-    <summary><strong>✔ Principais Repositórios</strong></summary>
+    <summary><strong>📌 Principais Repositórios</strong></summary>
     <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/GiovanaMerces/AnaliseRotatividade)
@@ -52,7 +52,9 @@
 <details>
     <summary><strong>📚 Curso BSI</strong></summary>
     <br>
-  
+ 
+[📗TEC1-ESCAPE-THE-MAZE](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE)<br>
+<br>
 [📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
 <br>
 [📗LeituraArtigo2023](https://github.com/GiovanaMerces/LeituraArtigo2023)<br>
