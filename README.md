@@ -65,7 +65,7 @@
 
 <br>
 
-👉🏻Fique à vontade para a [Aprendizagem](https://github.com/GiovanaMerces/Aprendizagem)
+👉🏻 Fique à vontade para a [Aprendizagem](https://github.com/GiovanaMerces/Aprendizagem)
 
 ---
 
