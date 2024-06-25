@@ -1,17 +1,28 @@
 <img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
- <h3>⁕ Sobre mim</h3>
+<div align="center">
+  <h3>⁕ Sobre mim</h3>
 
-<img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</br>
-<img src="https://media.tenor.com/sUiwSBs8S6QAAAAi/dice-game.gif" width="16" height="16"> Interesse por Análise de Dados.</br>
-<img src="https://media.tenor.com/2dN-bcf5bQIAAAAi/purple-heart-pixel-heart.gif" width="16" height="16"> Apaixonada por SQL.</br>
+  <table style="border: 1px solid; margin-left: auto; margin-right: auto;">
+    <tr>
+      <td><img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.tenor.com/sUiwSBs8S6QAAAAi/dice-game.gif" width="16" height="16"> Interesse por Análise de Dados.</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.tenor.com/2dN-bcf5bQIAAAAi/purple-heart-pixel-heart.gif" width="16" height="16"> Apaixonada por SQL.</td>
+    </tr>
+  </table>
+</div>
+
 
 ---
-  
+
+<div align="center">
  <h3>⁕ Habilidades</br>
 <br>
-
-<div> 
+  
   <img src="https://img.shields.io/badge/Python-1b004b?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-4d0491?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-461e6b?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,10 +32,11 @@
 </h3>
 
 ##
+
+<div align="center">
  <h3>⁕ Ferramentas</br>
 <br>
   
-  <div> 
   <img src="https://img.shields.io/badge/MySQL-530088?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Colab-7f00b2?style=for-the-badge&logo=googlecolab&color=7f00b2"/>
   <img src="https://img.shields.io/badge/replit-3a33ae?style=for-the-badge&logo=replit&logoColor=white"/>
