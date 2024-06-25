@@ -65,9 +65,9 @@
     <summary><strong>📚 Curso BSI</strong></summary>
     <br>
  
-[📗TEC1-ESCAPE-THE-MAZE](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE)<br>
-<br>
 [📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
+<br>
+[📗TEC1-ESCAPE-THE-MAZE](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE)<br>
 <br>
 [📗LeituraArtigo2023](https://github.com/GiovanaMerces/LeituraArtigo2023)<br>
 <br>
