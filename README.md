@@ -46,8 +46,6 @@
 
 ##
 
-<br>
-
 <div align="center">
  <h3>⁕ Minhas Estatísticas ⁕</h3>
 </div>
