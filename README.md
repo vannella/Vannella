@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
- <h3>⁕ Habilidades / Ferramentas ⁕</br>
+ <h3>⁕ Habilidades / Ferramentas ⁕</h3>
 <br>
   
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Html" Height="60" Width="60"/>
@@ -45,6 +45,12 @@
 </h3>
 
 ##
+
+<br>
+
+<div align="center">
+ <h3>⁕ Minhas Estatísticas ⁕</h3>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMerces&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="top-langs">
@@ -90,7 +96,7 @@
 
 
 <div align="center">
-  <h4><b>Profile Visitor Count</b></h4>
+  <h4><b>Contagem de visitantes do perfil</b></h4>
 </div>
 
 <p align="center">
