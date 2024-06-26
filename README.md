@@ -1,7 +1,7 @@
 <img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
 <div align="center">
-  <h3>⁕ Sobre mim</h3>
+  <h3>⁕ Sobre mim ⁕</h3>
 
   <table style="border: 1px solid; margin-left: auto; margin-right: auto;">
     <tr>
@@ -20,27 +20,18 @@
 ---
 
 <div align="center">
- <h3>⁕ Habilidades</br>
+ <h3>⁕ Habilidades / Ferramentas ⁕</br>
 <br>
   
-  <img src="https://img.shields.io/badge/Python-1b004b?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-4d0491?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-461e6b?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-530088?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Html" Height="60" Width="60"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" Height="60" Width="60"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" Height="50" Width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" Height="50" Width="50"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Caderno Jupyter" Height="55" Width="55"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" Height="60" Width="60"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" Height="60" Width="60"/>
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" Height="50" Width="50"/>
 
-</div>
-</h3>
-
-##
-
-<div align="center">
- <h3>⁕ Ferramentas</br>
-<br>
-  
-  <img src="https://img.shields.io/badge/MySQL-530088?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-7f00b2?style=for-the-badge&logo=googlecolab&color=7f00b2"/>
-  <img src="https://img.shields.io/badge/replit-3a33ae?style=for-the-badge&logo=replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-4d0491?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 </h3>
 
