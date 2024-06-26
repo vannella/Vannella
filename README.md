@@ -45,11 +45,17 @@
  <h3>⁕ Minhas Estatísticas ⁕</h3>
 </div>
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMerces&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="top-langs">
 </p>
 
-##
+<div align="center">
+   <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10"><img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10">
+</div>
+
+<br>
 
 <details>
     <summary><strong>📌 Análise de Dados</strong></summary>
@@ -80,9 +86,7 @@
 
 <br>
 
-<div align="center">
-   <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10"><img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10">
-</div>
+
 
 <br>
 
