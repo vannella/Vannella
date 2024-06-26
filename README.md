@@ -58,7 +58,7 @@
 <br>
 
 <details>
-    <summary><strong>📌 Análise de Dados</strong></summary>
+    <summary><strong>📌 Meus Projetos</strong></summary>
     <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/GiovanaMerces/AnaliseRotatividade)
@@ -67,7 +67,7 @@
 <br>
 
 <details>
-    <summary><strong>📚 Curso BSI</strong></summary>
+    <summary><strong>📚 Projetos Acadêmicos</strong></summary>
     <br>
  
 [📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
@@ -87,10 +87,6 @@
 <br>
 
 
-
-<br>
-
-
 <div align="center">
   <h4><b>Contagem de visitantes do perfil</b></h4>
 </div>
@@ -98,8 +94,7 @@
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/GiovanaMerces/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+    alt="Número de visitantes no perfil"/>
 </p>
 
 <picture>
