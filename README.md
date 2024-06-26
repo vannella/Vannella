@@ -16,8 +16,14 @@
   </table>
 </div>
 
+<br>
 
----
+<div align="center">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif">
+</div>
+
+<br>
 
 <div align="center">
  <h3>⁕ Habilidades / Ferramentas ⁕</br>
@@ -71,7 +77,12 @@
 
 👉🏻 Fique à vontade para [Aprender!](https://github.com/GiovanaMerces/Aprendizagem)
 
----
+<br>
+
+<div align="center">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif">
+  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif">
+</div>
 
 <br>
 
