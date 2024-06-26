@@ -16,14 +16,7 @@
   </table>
 </div>
 
-
-
-<br>
-
-<div align="center">
-  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" height="10">
-  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" height="10">
-</div>
+---
 
 <br>
 
@@ -83,12 +76,7 @@
 
 👉🏻 Fique à vontade para [Aprender!](https://github.com/GiovanaMerces/Aprendizagem)
 
-<br>
-
-<div align="center">
-  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" height="10">
-  <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" height="10">
-</div>
+---
 
 <br>
 
