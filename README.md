@@ -1,4 +1,4 @@
-<img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
+<img src="https://github.com/Vannella/Vannella/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
 
 <div align="center">
   <h3>⁕ Sobre mim ⁕</h3>
@@ -49,7 +49,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaMerces&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaMerces&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="top-langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vannella&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vannella&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="top-langs">
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
     <summary><strong>📌 Meus Projetos</strong></summary>
     <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiovanaMerces&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/GiovanaMerces/AnaliseRotatividade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/AnaliseRotatividade)
 </details>
 
 <br>
@@ -71,19 +71,19 @@
     <summary><strong>📚 Projetos Acadêmicos</strong></summary>
     <br>
  
-[📗ES1-HospedagemHotel](https://github.com/GiovanaMerces/ES1-HospedagemHotel)<br>
+[📗ES1-HospedagemHotel](https://github.com/Vannella/ES1-HospedagemHotel)<br>
 <br>
-[📗TEC1-ESCAPE-THE-MAZE](https://github.com/GiovanaMerces/ESCAPE-THE-MAZE)<br>
+[📗TEC1-ESCAPE-THE-MAZE](https://github.com/Vannella/ESCAPE-THE-MAZE)<br>
 <br>
-[📗LeituraArtigo2023](https://github.com/GiovanaMerces/LeituraArtigo2023)<br>
+[📗LeituraArtigo2023](https://github.com/Vannella/LeituraArtigo2023)<br>
 <br>
-[📗IHM-RelatorioShopp2](https://github.com/GiovanaMerces/RelatorioShopp2)<br>
+[📗IHM-RelatorioShopp2](https://github.com/Vannella/RelatorioShopp2)<br>
 <br>
 </details>
 
 <br>
 
-👉🏻 Fique à vontade para [Aprender!](https://github.com/GiovanaMerces/Aprendizagem)
+👉🏻 Fique à vontade para [Aprender!](https://github.com/Vannella/Aprendizagem)
 
 <br>
 
@@ -94,13 +94,13 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/GiovanaMerces/count.svg"
+    src="https://profile-counter.glitch.me/Vannella/count.svg"
     alt="Número de visitantes no perfil"/>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanaMerces/GiovanaMerces/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
 <picture>
 <br><br>
