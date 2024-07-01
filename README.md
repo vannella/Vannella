@@ -89,8 +89,8 @@
 <br>
 
 <div align="right">
-  <h5>Uma carta para <a href="https://github.com/vannella/VanaConfig">Vannella.</a></h5>
-  <h5>Como fazer esse <a href="https://github.com/vannella/VanaConfig">readme</a>?</h5>
+  <h4>⇾ Uma carta para <a href="https://github.com/vannella/VanaConfig">Vannella.</a></h4>
+  <h4>⇾ Como fazer esse <a href="https://github.com/vannella/VanaConfig">readme</a>?</h4>
 </div>
 
 <div align="center">
