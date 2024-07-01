@@ -99,7 +99,7 @@
 </p>
 
 <div align="center">
-  <h4>Uma carta para <a href="https://github.com/vannella/VanaConfig">Vannella.</a></h4>
+  <h4>Uma carta para <a href="https://github.com/vannella/VanaConfig/discussions/categories/carta-para-vannela">Vannella.</a></h4>
   <h4>Como fazer esse <a href="https://github.com/vannella/VanaConfig">readme</a>?</h4>
 </div>
 
