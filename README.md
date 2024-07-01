@@ -99,6 +99,12 @@
     alt="Número de visitantes no perfil"/>
 </p>
 
+<div align="right">
+  <a href="https://github.com/vannella/VanaConfig">
+    <h6>Como fazer esse readme?</h6>
+  </a>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake.svg">
