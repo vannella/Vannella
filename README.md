@@ -88,6 +88,10 @@
 
 <br>
 
+<div align="right">
+  <h5>Uma carta para <a href="https://github.com/vannella/VanaConfig">Vannella.</a></h5>
+  <h5>Como fazer esse <a href="https://github.com/vannella/VanaConfig">readme</a>?</h5>
+</div>
 
 <div align="center">
   <h4><b>Contagem de visitantes do perfil</b></h4>
@@ -99,11 +103,8 @@
     alt="Número de visitantes no perfil"/>
 </p>
 
-<div align="right">
-  <a href="https://github.com/vannella/VanaConfig">
-    <h6>Como fazer esse readme?</h6>
-  </a>
-</div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
