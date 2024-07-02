@@ -70,14 +70,12 @@
 <details>
     <summary><strong>📚 Projetos Acadêmicos</strong></summary>
     <br>
- 
-[📗ES1-HospedagemHotel](https://github.com/Vannella/ES1-HospedagemHotel)<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ES1-HospedagemHotel&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ES1-HospedagemHotel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ESCAPE-THE-MAZE&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ESCAPE-THE-MAZE)
 <br>
-[📗TEC1-ESCAPE-THE-MAZE](https://github.com/Vannella/ESCAPE-THE-MAZE)<br>
-<br>
-[📗LeituraArtigo2023](https://github.com/Vannella/LeituraArtigo2023)<br>
-<br>
-[📗IHM-RelatorioShopp2](https://github.com/Vannella/RelatorioShopp2)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=LeituraArtigo2023&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/LeituraArtigo2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=RelatorioShopp2&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/RelatorioShopp2)
 <br>
 </details>
 
