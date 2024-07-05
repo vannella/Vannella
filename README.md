@@ -1,4 +1,4 @@
-<img src="https://github.com/vannella/Vannella/blob/c6ec416425f15ce8a4a9846576314a30bb827ddd/_banner%20github%201.gif">
+<img src="https://github.com/vannella/Vannella/blob/ce3f98ed38fd25aac3ab1d7d17f43c1a43d96e5d/_banner%20github%203.gif">
 
 <div align="center">
   <h3>⁕ Sobre mim ⁕</h3>
