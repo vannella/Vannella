@@ -24,7 +24,6 @@
 
 <div align="center">
  <h3>⁕ Habilidades / Ferramentas ⁕</h3>
-<br>
   
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Html" Height="50" Width="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" Height="50" Width="50"/>
@@ -40,20 +39,19 @@
 </div>
 </h3>
 
-##
-
-<div align="center">
- <h3>⁕ Minhas Estatísticas ⁕</h3>
-</div>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vannella&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=false&hide_border=true&bg_color=00000000"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vannella&show_icons=true&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="top-langs">
-</p>
+<br>
 
 <div align="center">
    <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10"><img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10">
+</div>
+
+<br>
+
+<div align="center">
+  
+   📊 Veja Meu [OctoProfile!](https://octoprofile.vercel.app/user?id=Vannella)
+
+   🚀 Fique à vontade para [Aprender!](https://github.com/Vannella/Aprendizagem)
 </div>
 
 <br>
@@ -65,51 +63,25 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/AnaliseRotatividade)
 </details>
 
-<br>
-
 <details>
     <summary><strong>📚 Projetos Acadêmicos</strong></summary>
     <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ES1-HospedagemHotel&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ES1-HospedagemHotel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ES1-HospedagemHotel&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ES1-HospedagemHotel)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ESCAPE-THE-MAZE&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ESCAPE-THE-MAZE)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=LeituraArtigo2023&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/LeituraArtigo2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=LeituraArtigo2023&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/LeituraArtigo2023)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=RelatorioShopp2&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/RelatorioShopp2)
 <br>
 </details>
 
-<br>
-
-👉🏻 Fique à vontade para [Aprender!](https://github.com/Vannella/Aprendizagem)
-
-<br>
-
-<details>
-    <summary><strong></strong></summary>
-    <br>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" widht="100" height="100"><h4>Uma carta para <a href="https://github.com/vannella/VanaConfig/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella.md&title=">Vannella.</a></h4>
-  <h4>Como fazer esse <a href="https://github.com/vannella/VanaConfig">readme</a>?</h4>
-
-</details>
 
 <br>
 
 <div align="center">
-  <h4><b>Contagem de visitantes do perfil</b></h4>
+  <h4>Uma carta para <a href="https://github.com/vannella/VanaConfig/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella.md&title=">Vannella.</a></h4>
+  <img src="https://img.shields.io/github/followers/Vannella.svg?style=social&label=Follow&maxAge=2592000">   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Vannella/count.svg"
-    alt="Número de visitantes no perfil"/>
-</p>
 
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vannella/Vannella/output/github-contribution-grid-snake-dark.svg">
-<picture>
-<br><br>
