@@ -5,7 +5,7 @@
 
   <table style="border: 1px solid; margin-left: auto; margin-right: auto;">
     <tr>
-      <td><img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação na Rural.</td>
+      <td><img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</td>
     </tr>
     <tr>
       <td><img src="https://media.tenor.com/sUiwSBs8S6QAAAAi/dice-game.gif" width="16" height="16"> Interesse por Análise de Dados.</td>
