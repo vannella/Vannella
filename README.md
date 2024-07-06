@@ -83,10 +83,11 @@
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
+   
+   <a href="https://giovanafernanda930@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
-    <a href="https://giovanafernanda930@gmail.com">
-      <img src="https://img.shields.io/github/followers/Vannella.svg?style=social&label=Follow&maxAge=2592000" alt="contagem">
    </a>
+    <img src="https://img.shields.io/github/followers/Vannella.svg?style=social&label=Follow&maxAge=2592000" alt="contagem">
 </div>
 
 
