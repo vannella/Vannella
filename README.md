@@ -82,7 +82,9 @@
    <h4>Uma carta para <a href="https://github.com/vannella/VanaConfig/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella.md&title=">Vannella.</a></h4>
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
+    <a href="https://giovanafernanda930@gmail.com">
       <img src="https://img.shields.io/github/followers/Vannella.svg?style=social&label=Follow&maxAge=2592000" alt="contagem">
    </a>
 </div>
