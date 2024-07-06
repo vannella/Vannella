@@ -87,7 +87,11 @@
    <a href="https://giovanafernanda930@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
    </a>
-    <img src="https://img.shields.io/github/followers/Vannella.svg?style=social&label=Follow&maxAge=2592000" alt="contagem">
+    <img src="https://komarev.com/ghpvc/?username=vannella&label=Profile%20views&color=000000&style=flat">
 </div>
+
+
+
+
 
 
