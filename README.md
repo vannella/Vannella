@@ -79,7 +79,7 @@
 <br>
 
  <div align="center">
-   <h4>Uma carta para <a href="https://github.com/vannella/VanaConfig/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella.md&title=">Vannella.</a></h4>
+   <h4>Uma carta para <a href="https://github.com/vannella/Vannella/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella--.md&title=%F0%9F%96%8A+Escrita+-">Vannella.</a></h4>
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
