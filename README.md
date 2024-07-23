@@ -1,20 +1,13 @@
 <img src="https://github.com/vannella/Vannella/blob/ce3f98ed38fd25aac3ab1d7d17f43c1a43d96e5d/_banner%20github%203.gif">
 
 <div align="center">
-  <h3>⁕ Sobre mim ⁕</h3>
-
-  <table style="border: 1px solid; margin-left: auto; margin-right: auto;">
-    <tr>
-      <td><img src="https://media.tenor.com/FbTWLMuy8dgAAAAi/lcv-80s-computer.gif" width="16" height="16"> Acadêmica de Sistemas de Informação.</td>
-    </tr>
-    <tr>
-      <td><img src="https://media.tenor.com/sUiwSBs8S6QAAAAi/dice-game.gif" width="16" height="16"> Interesse por Análise de Dados.</td>
-    </tr>
-    <tr>
-      <td><img src="https://media.tenor.com/2dN-bcf5bQIAAAAi/purple-heart-pixel-heart.gif" width="16" height="16"> Apaixonada por SQL.</td>
-    </tr>
-  </table>
+  <h3>⁕ About this GitHub ⁕</h3>
+ This GitHub is for sharing experiences and projects about technologies studied during my course, as well as other learnings.
+<br>
+The goal is to disseminate experiences and interact with the community, seeking feedback and collaboration.
 </div>
+
+<br>
 
 <div align="center">
    <img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10"><img src="https://media.tenor.com/C9Dy-V7KTMMAAAAi/line.gif" Height="10">
@@ -23,7 +16,7 @@
 <br>
 
 <div align="center">
- <h3>⁕ Habilidades / Ferramentas ⁕</h3>
+ <h3>⁕ Skills/Tools ⁕</h3>
   
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Html" Height="50" Width="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" Height="50" Width="50"/>
@@ -49,37 +42,31 @@
 
 <div align="center">
   
-   📊 Veja Meu [OctoProfile!](https://octoprofile.vercel.app/user?id=Vannella)
+   🚀 Feel free to [Learn!](https://github.com/Vannella/Aprendizagem)
 
-   🚀 Fique à vontade para [Aprender!](https://github.com/Vannella/Aprendizagem)
+   📊 My stats in [OctoProfile](https://octoprofile.vercel.app/user?id=Vannella)
+
 </div>
 
-<br>
 
-<details>
-    <summary><strong>📌 Meus Projetos</strong></summary>
-    <br>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=AnaliseRotatividade&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/AnaliseRotatividade)
-</details>
+---
 
-<details>
-    <summary><strong>📚 Projetos Acadêmicos</strong></summary>
-    <br>
+<H2>📚 Academic Projects:</H2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ES1-HospedagemHotel&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ES1-HospedagemHotel)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=ESCAPE-THE-MAZE&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/ESCAPE-THE-MAZE)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=LeituraArtigo2023&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/LeituraArtigo2023)<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vannella&repo=RelatorioShopp2&show_icons=true&layout=compact&theme=midnight-purple&hide_border=false&bg_color=00000000)](https://github.com/Vannella/RelatorioShopp2)
-<br>
-</details>
+- [Software Engineering - Hotel Lodging](https://github.com/Vannella/ES1-HospedagemHotel). <br>
+- [Human and Machine Interface - Shopp2 Report](https://github.com/Vannella/RelatorioShopp2). <br>
+
+Code:
+- [C programming - ESCAPE THE MAZE](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
+
+Reading:
+- [Programming Languages - Reading Article 2023](https://github.com/Vannella/LeituraArtigo2023). <br>
 
 
 <br>
 
  <div align="center">
-   <h4>Uma carta para <a href="https://github.com/vannella/Vannella/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella--.md&title=%F0%9F%96%8A+Escrita+-">Vannella.</a></h4>
+   <h4>A letter to <a href="https://github.com/vannella/Vannella/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Ccarta-para-vannella--.md&title=%F0%9F%96%8A+Escrita+-">Vannella.</a></h4>
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
