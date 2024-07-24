@@ -53,11 +53,11 @@ The goal is to disseminate experiences and interact with the community, seeking 
 
 <H2>📚 Academic Projects:</H2>
 
-- [Software Engineering - Hotel Lodging](https://github.com/Vannella/ES1-HospedagemHotel). <br>
-- [Human and Machine Interface - Shopp2 Report](https://github.com/Vannella/RelatorioShopp2). <br>
+- [Software Engineering - Idealization of a Software (Hotel Accommodation)](https://github.com/Vannella/ES1-HospedagemHotel). <br>
+- [Human and Machine Interface - UX Design / usability study of SHOPP2](https://github.com/Vannella/RelatorioShopp2). <br>
 
 Code:
-- [C programming - ESCAPE THE MAZE](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
+- [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
 
 Reading:
 - [Programming Languages - Reading Article 2023](https://github.com/Vannella/LeituraArtigo2023). <br>
