@@ -41,8 +41,6 @@ The goal is to disseminate experiences and interact with the community, seeking 
 <br>
 
 <div align="center">
-  
-   🚀 Feel free to [Learn!](https://github.com/Vannella/Aprendizagem)
 
    📊 My stats in [OctoProfile](https://octoprofile.vercel.app/user?id=Vannella)
 
@@ -60,8 +58,9 @@ Code:
 - [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
 
 Reading:
-- [Programming Languages - Reading Article 2023](https://github.com/Vannella/LeituraArtigo2023). <br>
-
+- [Programming Languages - Reading Article 2023](https://github.com/Vannella/LeituraArtigo2023). <br><br>
+  
+🚀 Feel free to [Learn!](https://github.com/Vannella/Aprendizagem)
 
 <br>
 
