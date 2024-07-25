@@ -61,7 +61,7 @@ Reading:
 - [Programming Languages - Reading Article 2023](https://github.com/Vannella/LeituraArtigo2023). <br>
 
 Outros:
-- Uma Pequena Análise sobre Rotatividade de uma empresa de tecnologia. <br><br>
+- [Uma Pequena Análise sobre Rotatividade de uma empresa de tecnologia](https://github.com/vannella/AnaliseRotatividade). <br><br>
   
 🚀 Feel free to [Learn!](https://github.com/Vannella/Aprendizagem)
 
