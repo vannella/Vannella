@@ -52,7 +52,6 @@ The goal is to disseminate experiences and interact with the community, seeking 
 <H2>📚 Academic Projects:</H2>
 
 - [Software Engineering - Idealization of a Software (Hotel Accommodation)](https://github.com/Vannella/ES1-HospedagemHotel). <br>
-- [Human and Machine Interface - UX Design / usability study of SHOPP2](https://github.com/Vannella/RelatorioShopp2). <br>
 
 Code:
 - [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
