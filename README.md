@@ -69,10 +69,6 @@ Outros:
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
-   
-   <a href="https://giovanavannela@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
-   </a>
     <img src="https://komarev.com/ghpvc/?username=vannella&label=Profile%20views&color=000000&style=flat">
 </div>
 
