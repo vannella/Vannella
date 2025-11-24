@@ -49,7 +49,7 @@ The goal is to disseminate experiences and interact with the community, seeking 
 
 ---
 
-<H2>📚 Academic Projects:</H2>
+<H2>📚 Projects:</H2>
 
 Code:
 - [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
