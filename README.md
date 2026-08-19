@@ -65,7 +65,6 @@ Outros:
 <br>
 
  <div align="center">
-   <h4>A letter to <a href="https://github.com/vannella/Vannella/issues/new?assignees=&labels=good+first+issue&projects=&template=%F0%9F%93%9Cletter-to-vannella--.md&title=%F0%9F%96%8A+Writing-">Vannella.</a></h4>
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
