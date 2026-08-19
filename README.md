@@ -57,7 +57,6 @@ The goal is to disseminate experiences and interact with the community, seeking 
 </div>
 
 
----
 
 <H2>📚 Projects:</H2>
 
