@@ -55,10 +55,10 @@ Code:
 - [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
 
 Reading:
-- [Discord: Beyond the Servers](https://github.com/Vannella/LeituraArtigo2023). <br>
+- [Discord: Beyond the Servers](https://github.com/vannella/minha-leitura-Discord). <br>
 
 Outros:
-- [A Brief Analysis of Employee Turnover in a Technology Company](https://github.com/vannella/minha-leitura-Discord). <br><br>
+- [A Brief Analysis of Employee Turnover in a Technology Company](https://github.com/vannella/AnaliseRotatividade). <br><br>
   
 🚀 Feel free to [Learn!](https://github.com/Vannella/Aprendizagem)
 
