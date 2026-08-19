@@ -1,10 +1,20 @@
 <img src="https://github.com/vannella/Vannella/blob/59fc88e9f9dc7ae756a25cfb90c87e1662d1dcfc/_banner%20github%203%20(2).gif" alt="Banner vannella">
 
 <div align="center">
-  <h3>⁕ About this GitHub ⁕</h3>
- This GitHub is for sharing experiences and projects about technologies studied during my course, as well as other learnings.
-<br>
+
+<table>
+  <tr>
+    <td align="center">
+
+**⁕ About this GitHub ⁕**
+
+This GitHub is for sharing experiences and projects about technologies studied during my course, as well as other learnings.<br>
 The goal is to disseminate experiences and interact with the community, seeking feedback and collaboration.
+
+
+  </tr>
+</table>
+
 </div>
 
 <br>
