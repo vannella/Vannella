@@ -8,8 +8,10 @@
 
 **⁕ About this GitHub ⁕**
 
-This GitHub is for sharing experiences and projects about technologies studied during my course, as well as other learnings.<br>
-The goal is to disseminate experiences and interact with the community, seeking feedback and collaboration.
+This GitHub is for sharing experiences and projects about technologies <br>
+studied during my course, as well as other learnings.<br>
+The goal is to disseminate experiences and interact with<br>
+the community, seeking feedback and collaboration.<br>
 
 
   </tr>
