@@ -74,6 +74,12 @@ Outros:
 <br>
 
  <div align="center">
+
+<img src="https://github.com/vannella/Vannella/blob/6ddde55dad5ac36056855a5996c0d931e808a041/cogumelos.gif" alt="cogumelos.gif">
+
+</div>
+
+<div align="center">
    <a href="https://github.com/Vannella">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
    </a>
