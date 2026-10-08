@@ -66,7 +66,7 @@ Code:
 - [C programming - Dialogue RPG put the player in a maze](https://github.com/Vannella/ESCAPE-THE-MAZE). <br>
 
 Reading:
-- [Discord: Beyond the Servers](https://github.com/vannella/minha-leitura-Discord). <br>
+- [A critical review of an article on Programming Languages](https://github.com/vannella/LeituraArtigo2023). <br>
 
 Outros:
 - [A Brief Analysis of Employee Turnover in a Technology Company](https://github.com/vannella/AnaliseRotatividade). <br><br>
